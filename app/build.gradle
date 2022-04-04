@@ -6,7 +6,7 @@ android {
     compileSdk 32
 
     defaultConfig {
-        applicationId "com.example.hellotoastlayout"
+        applicationId "com.example.layoutconstrainthomework"
         minSdk 22
         targetSdk 32
         versionCode 1
