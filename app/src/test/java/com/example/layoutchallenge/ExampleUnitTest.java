@@ -1,4 +1,4 @@
-package com.example.hellotoastlayout;
+package com.example.layoutchallenge;
 
 import org.junit.Test;
 
